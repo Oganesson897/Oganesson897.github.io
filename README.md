@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Darknight123MC, you can call me Oganesson897 or Og/O897.  
+Hi, I'm Oganesson897, you can call me Chikusa(Japanese) or Og/O897.  
 
 I am a student and I 14 years old.  
 
@@ -20,8 +20,9 @@ I codeable language:
 - Python
 - ZenScript (A script language for CraftTweaker)
 - JavaScript and TypeScript
-- Rust (Learning)
-- Kotlin (Learning)
+- Rust
+- Kotlin
+- Ruby and Lua (Learning)
 
 #### My Hobby:  
 - Play the games (I actually like a lot games e.g. Minecraft, Phigros, Terraria, GTA5 e.t.c.)
@@ -30,4 +31,4 @@ I codeable language:
 - Music (Cpop and Jpop and Pop, like JayChou and EasonChan, Vaundy and Eve, Sakanaction e.t.c.)
 
 ## Work State
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Darknight123MC&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Oganesson897&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
